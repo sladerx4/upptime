@@ -34,7 +34,7 @@ status-website:
   introMessage: Monitoreo del estado de paginas propias y de paginas de importancia
   navbar:
     - title: Estado
-      href: /
+      href: /upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
