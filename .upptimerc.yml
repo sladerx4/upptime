@@ -27,6 +27,8 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  faviconSvg: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  theme: dark
   name: sladerx Upptime
   introTitle: "**Upptime** servicio de monitoreo de estado y uptime de paginas "
   introMessage: Monitoreo del estado de paginas propias y de paginas de importancia
