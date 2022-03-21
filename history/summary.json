@@ -4,18 +4,20 @@
     "url": "http://interfacenet.com.ar/",
     "icon": "https://favicons.githubusercontent.com/interfacenet.com.ar",
     "slug": "interface",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 802,
     "timeDay": 838,
     "timeWeek": 802,
     "timeMonth": 802,
     "timeYear": 802,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-21": 1
+    }
   },
   {
     "name": "Ctear",
