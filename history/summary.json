@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/interfacenet.com.ar",
     "slug": "interface",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.55%",
     "uptimeDay": "98.66%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.54%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
     "time": 787,
     "timeDay": 771,
     "timeWeek": 787,
@@ -42,9 +42,9 @@
     "url": "https://cobrodigital.com/",
     "icon": "https://favicons.githubusercontent.com/cobrodigital.com",
     "slug": "cobro-digital",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +53,9 @@
     "timeWeek": 931,
     "timeMonth": 931,
     "timeYear": 931,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-21": 0
+    }
   },
   {
     "name": "Facebook",
