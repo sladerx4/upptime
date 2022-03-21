@@ -4,19 +4,19 @@
     "url": "http://interfacenet.com.ar/",
     "icon": "https://favicons.githubusercontent.com/interfacenet.com.ar",
     "slug": "interface",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 802,
-    "timeDay": 838,
-    "timeWeek": 802,
-    "timeMonth": 802,
-    "timeYear": 802,
+    "status": "up",
+    "uptime": "99.54%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
+    "time": 787,
+    "timeDay": 771,
+    "timeWeek": 787,
+    "timeMonth": 787,
+    "timeYear": 787,
     "dailyMinutesDown": {
-      "2022-03-21": 1
+      "2022-03-21": 19
     }
   },
   {
