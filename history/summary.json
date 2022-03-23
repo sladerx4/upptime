@@ -42,19 +42,19 @@
     "url": "https://cobrodigital.com/",
     "icon": "https://favicons.githubusercontent.com/cobrodigital.com",
     "slug": "cobro-digital",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1035,
-    "timeDay": 935,
-    "timeWeek": 1035,
-    "timeMonth": 1035,
-    "timeYear": 1035,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1033,
+    "timeDay": 960,
+    "timeWeek": 1033,
+    "timeMonth": 1033,
+    "timeYear": 1033,
     "dailyMinutesDown": {
-      "2022-03-23": 0
+      "2022-03-23": 5
     }
   },
   {
