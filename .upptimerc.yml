@@ -17,6 +17,8 @@ sites:
     url: https://www.instagram.com/
   - name: Steam
     url: https://store.steampowered.com/
+  - name: PCCP
+    url: https://pccp.ar/
 
 assignees:
   - sladerx4
