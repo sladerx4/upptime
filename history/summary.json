@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/interfacenet.com.ar",
     "slug": "interface",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 859,
     "timeDay": 879,
     "timeWeek": 947,
@@ -24,9 +24,9 @@
     "url": "http://ctear.com.ar/",
     "icon": "https://favicons.githubusercontent.com/ctear.com.ar",
     "slug": "ctear",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 5009,
     "timeMonth": 6034,
     "timeYear": 6034,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-31": 0
+    }
   },
   {
     "name": "CobroDigital",
