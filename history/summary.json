@@ -24,19 +24,19 @@
     "url": "http://ctear.com.ar/",
     "icon": "https://favicons.githubusercontent.com/ctear.com.ar",
     "slug": "ctear",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 6034,
-    "timeDay": 4807,
-    "timeWeek": 5009,
-    "timeMonth": 6034,
-    "timeYear": 6034,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 5999,
+    "timeDay": 5088,
+    "timeWeek": 5049,
+    "timeMonth": 5999,
+    "timeYear": 5999,
     "dailyMinutesDown": {
-      "2022-03-31": 0
+      "2022-03-31": 4
     }
   },
   {
