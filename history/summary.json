@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 852,
-    "timeDay": 729,
-    "timeWeek": 824,
-    "timeMonth": 852,
-    "timeYear": 852,
+    "time": 853,
+    "timeDay": 870,
+    "timeWeek": 819,
+    "timeMonth": 853,
+    "timeYear": 853,
     "dailyMinutesDown": {
       "2022-03-21": 19
     }
@@ -25,19 +25,17 @@
     "icon": "https://favicons.githubusercontent.com/ctear.com.ar",
     "slug": "ctear",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 6055,
-    "timeDay": 5303,
-    "timeWeek": 5678,
-    "timeMonth": 6055,
-    "timeYear": 6055,
-    "dailyMinutesDown": {
-      "2022-04-03": 4
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 6070,
+    "timeDay": 6157,
+    "timeWeek": 5744,
+    "timeMonth": 6070,
+    "timeYear": 6070,
+    "dailyMinutesDown": {}
   },
   {
     "name": "CobroDigital",
@@ -50,11 +48,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 988,
-    "timeDay": 846,
-    "timeWeek": 948,
-    "timeMonth": 988,
-    "timeYear": 988,
+    "time": 983,
+    "timeDay": 856,
+    "timeWeek": 951,
+    "timeMonth": 983,
+    "timeYear": 983,
     "dailyMinutesDown": {
       "2022-03-29": 16
     }
@@ -70,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 207,
-    "timeDay": 166,
-    "timeWeek": 198,
-    "timeMonth": 207,
-    "timeYear": 207,
+    "time": 203,
+    "timeDay": 128,
+    "timeWeek": 193,
+    "timeMonth": 203,
+    "timeYear": 203,
     "dailyMinutesDown": {}
   },
   {
@@ -89,8 +87,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 68,
-    "timeDay": 58,
-    "timeWeek": 60,
+    "timeDay": 62,
+    "timeWeek": 61,
     "timeMonth": 68,
     "timeYear": 68,
     "dailyMinutesDown": {}
@@ -106,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 655,
-    "timeDay": 848,
-    "timeWeek": 726,
-    "timeMonth": 655,
-    "timeYear": 655,
+    "time": 664,
+    "timeDay": 850,
+    "timeWeek": 795,
+    "timeMonth": 664,
+    "timeYear": 664,
     "dailyMinutesDown": {}
   },
   {
@@ -124,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 666,
-    "timeDay": 466,
-    "timeWeek": 583,
-    "timeMonth": 666,
-    "timeYear": 666,
+    "time": 670,
+    "timeDay": 741,
+    "timeWeek": 615,
+    "timeMonth": 670,
+    "timeYear": 670,
     "dailyMinutesDown": {}
   },
   {
@@ -142,11 +140,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 935,
-    "timeDay": 918,
-    "timeWeek": 935,
-    "timeMonth": 935,
-    "timeYear": 935,
+    "time": 939,
+    "timeDay": 960,
+    "timeWeek": 939,
+    "timeMonth": 939,
+    "timeYear": 939,
     "dailyMinutesDown": {}
   }
 ]
