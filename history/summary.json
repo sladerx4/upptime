@@ -116,9 +116,9 @@
     "url": "https://store.steampowered.com/",
     "icon": "https://favicons.githubusercontent.com/store.steampowered.com",
     "slug": "steam",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -127,7 +127,9 @@
     "timeWeek": 437,
     "timeMonth": 661,
     "timeYear": 625,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-22": 0
+    }
   },
   {
     "name": "PCCP",
