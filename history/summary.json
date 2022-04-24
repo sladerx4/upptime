@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 862,
-    "timeDay": 1056,
-    "timeWeek": 903,
+    "time": 859,
+    "timeDay": 768,
+    "timeWeek": 887,
     "timeMonth": 881,
-    "timeYear": 862,
+    "timeYear": 859,
     "dailyMinutesDown": {
       "2022-03-21": 19
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6216,
-    "timeDay": 5772,
-    "timeWeek": 7093,
-    "timeMonth": 6123,
-    "timeYear": 6216,
+    "time": 6189,
+    "timeDay": 4862,
+    "timeWeek": 6458,
+    "timeMonth": 6023,
+    "timeYear": 6189,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 942,
-    "timeDay": 870,
-    "timeWeek": 865,
-    "timeMonth": 916,
-    "timeYear": 942,
+    "time": 940,
+    "timeDay": 831,
+    "timeWeek": 834,
+    "timeMonth": 901,
+    "timeYear": 940,
     "dailyMinutesDown": {
       "2022-03-29": 16
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 227,
-    "timeDay": 308,
-    "timeWeek": 249,
-    "timeMonth": 240,
-    "timeYear": 227,
+    "time": 228,
+    "timeDay": 267,
+    "timeWeek": 240,
+    "timeMonth": 239,
+    "timeYear": 228,
     "dailyMinutesDown": {}
   },
   {
@@ -87,8 +87,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 69,
-    "timeDay": 76,
-    "timeWeek": 70,
+    "timeDay": 67,
+    "timeWeek": 69,
     "timeMonth": 68,
     "timeYear": 69,
     "dailyMinutesDown": {}
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 695,
-    "timeDay": 718,
-    "timeWeek": 678,
-    "timeMonth": 740,
-    "timeYear": 695,
+    "time": 696,
+    "timeDay": 754,
+    "timeWeek": 684,
+    "timeMonth": 747,
+    "timeYear": 696,
     "dailyMinutesDown": {}
   },
   {
@@ -117,16 +117,16 @@
     "icon": "https://favicons.githubusercontent.com/store.steampowered.com",
     "slug": "steam",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "97.69%",
+    "uptime": "99.94%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "99.93%",
-    "time": 615,
-    "timeDay": 426,
-    "timeWeek": 421,
-    "timeMonth": 564,
-    "timeYear": 615,
+    "uptimeYear": "99.94%",
+    "time": 609,
+    "timeDay": 343,
+    "timeWeek": 420,
+    "timeMonth": 557,
+    "timeYear": 609,
     "dailyMinutesDown": {
       "2022-04-22": 33
     }
@@ -142,11 +142,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1033,
-    "timeDay": 1292,
-    "timeWeek": 1045,
-    "timeMonth": 1033,
-    "timeYear": 1033,
+    "time": 1038,
+    "timeDay": 1164,
+    "timeWeek": 1076,
+    "timeMonth": 1038,
+    "timeYear": 1038,
     "dailyMinutesDown": {}
   }
 ]
