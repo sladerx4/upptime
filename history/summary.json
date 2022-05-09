@@ -13,7 +13,7 @@
     "time": 852,
     "timeDay": 984,
     "timeWeek": 889,
-    "timeMonth": 857,
+    "timeMonth": 865,
     "timeYear": 852,
     "dailyMinutesDown": {
       "2022-03-21": 19
@@ -144,19 +144,19 @@
     "url": "https://pccp.ar/",
     "icon": "https://favicons.githubusercontent.com/pccp.ar",
     "slug": "pccp",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1039,
-    "timeDay": 1052,
-    "timeWeek": 1069,
-    "timeMonth": 1051,
-    "timeYear": 1039,
+    "status": "up",
+    "uptime": "99.64%",
+    "uptimeDay": "85.51%",
+    "uptimeWeek": "97.93%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.64%",
+    "time": 1035,
+    "timeDay": 937,
+    "timeWeek": 1039,
+    "timeMonth": 1044,
+    "timeYear": 1035,
     "dailyMinutesDown": {
-      "2022-05-09": 0
+      "2022-05-09": 209
     }
   }
 ]
