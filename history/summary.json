@@ -25,11 +25,11 @@
     "icon": "https://favicons.githubusercontent.com/ctear.com.ar",
     "slug": "ctear",
     "status": "up",
-    "uptime": "97.79%",
+    "uptime": "97.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.70%",
     "uptimeMonth": "99.01%",
-    "uptimeYear": "97.79%",
+    "uptimeYear": "97.81%",
     "time": 7563,
     "timeDay": 6777,
     "timeWeek": 8106,
@@ -158,9 +158,9 @@
     "url": "https://pccp.ar/",
     "icon": "https://favicons.githubusercontent.com/pccp.ar",
     "slug": "pccp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.29%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.81%",
@@ -170,6 +170,7 @@
     "timeMonth": 1066,
     "timeYear": 1043,
     "dailyMinutesDown": {
+      "2022-07-10": 0,
       "2022-07-06": 72,
       "2022-05-09": 209
     }
