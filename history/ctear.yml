@@ -1,7 +1,7 @@
 url: http://ctear.com.ar/
-status: up
-code: 200
-responseTime: 10123
-lastUpdated: 2022-08-22T21:27:03.743Z
+status: down
+code: 500
+responseTime: 16618
+lastUpdated: 2022-08-22T21:37:22.151Z
 startTime: Fri Mar 18 2022 15:41:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
